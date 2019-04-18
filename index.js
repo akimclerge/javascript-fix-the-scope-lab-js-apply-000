@@ -10,8 +10,6 @@ function yourAnimal() {
   } else if (animal === "cat"){
     return "dog"
   }
-   
-  return animal;
 }
 
 function add2(n) {
